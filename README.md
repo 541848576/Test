@@ -1,0 +1,3 @@
+# Test
+第一个测试仓库
+<%@ page language="java" contentType="text/html; charset=GB18030"    pageEncoding="GB18030"%><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=GB18030"><link rel="stylesheet" type="text/css" href="CSS/index.css"><title>知识搜索</title></head><body>  <form action="servlet/TestServlet" method="post" dir="ltr" class="form_css">           <input name="userQuestion" type="text" class="question_css"><input value="搜索" type="submit" class="submit_css"><br>           <textarea class="textarea_css" ></textarea>  </form></body></html>
